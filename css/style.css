@@ -203,33 +203,33 @@ margin-top: 80px;
     0% {
       opacity: 0; }
     100% {
-      opacity: 0.25; } }
+      opacity: 0.30; } }
   @-moz-keyframes fade-in {
     0% {
       opacity: 0; }
     100% {
-      opacity: 0.25; } }
+      opacity: 0.30; } }
   @keyframes fade-in {
     0% {
       opacity: 0; }
     100% {
-      opacity: 0.25; } }
+      opacity: 0.30; } }
   /*----------------------------------------------   
   --Fade out for slider
   -----------------------------------------------  */
   @-webkit-keyframes fade-out {
     33% {
-      opacity: 0.25; }
+      opacity: 0.30; }
     66% {
       opacity: 0; } }
   @-moz-keyframes fade-out {
     33% {
-      opacity: 0.25; }
+      opacity: 0.30; }
     66% {
       opacity: 0; } }
   @keyframes fade-out {
     33% {
-      opacity: 0.25; }
+      opacity: 0.30; }
     66% {
       opacity: 0; } }
       @keyframes logo {
